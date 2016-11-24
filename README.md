@@ -10,6 +10,13 @@ Socket长链接简单封装demo
  */
  
  
+ 
+ 客户端：
+![image](https://github.com/yixi195/SockeIO-Demo/blob/master/screenshots/client.png)
+ 
+ 服务端：
+![image](https://github.com/yixi195/SockeIO-Demo/blob/master/screenshots/server.png)
+ 
 代码比较简单，主要是介绍一些Socket的用法。
 
 注意：修改HOST，PORT
